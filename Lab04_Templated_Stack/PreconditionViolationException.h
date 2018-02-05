@@ -6,7 +6,7 @@
 */
 
 #ifndef PRECONDITION_VIOLATION_EXCEPTION_H
-#define PRECONDITION_VIOLATION_EXPCETION_H
+#define PRECONDITION_VIOLATION_EXCEPTION_H
 
 #include <stdexcept>
 
@@ -21,4 +21,4 @@ public:
     PreconditionViolationException(const char* message);
 };
 
-#endif //PRECONDITION_VIOLATION_EXCPETION_H
+#endif //PRECONDITION_VIOLATION_EXCEPTION_H
